@@ -1,0 +1,7 @@
+/target/
+/src/test/resources/ExtentReports
+.project
+.classpath
+.settings/
+/src/main/resources/config.properties
+/src/test/resources/testdata/Login and items test data1.xlsx
